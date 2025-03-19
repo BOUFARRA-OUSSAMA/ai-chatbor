@@ -1,0 +1,37 @@
+# Python virtual environment
+chatbot/
+venv/
+env/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Conversation data
+conversation_history.json
+*.json
+
+# Local environment settings
+.env
+.env.local
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS specific files
+.DS_Store
+Thumbs.db
